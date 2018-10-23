@@ -3,6 +3,6 @@
 .envrc
 __pycache__/
 .venv
-static/
-templates/
+/app/static/*
+/app/templates/*
 data_dev.db
